@@ -3,5 +3,8 @@
   "env": {
 
   },
-  "plugins": ["transform-decorators-legacy"]
+  "plugins": [
+    "transform-decorators-legacy",
+    "flow-react-proptypes"
+  ]
 }
